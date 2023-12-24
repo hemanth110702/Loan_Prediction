@@ -21,7 +21,7 @@ Welcome to the Loan Prediction ML Project! This project is designed to predict l
 1. Clone the repository:
    ```bash
    git clone https://github.com/hemanth110702/Loan_Prediction.git
-   cd loan-prediction-ml
+   cd Loan_Prediction
 
 2. Install dependencies:
    ```bash
