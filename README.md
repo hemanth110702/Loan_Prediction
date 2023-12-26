@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 # Loan Prediction ML Project
 
 Welcome to the Loan Prediction ML Project! This project is designed to predict loan approval likelihood using logistic regression and is based on a dataset sourced from Kaggle.
@@ -32,3 +34,5 @@ Welcome to the Loan Prediction ML Project! This project is designed to predict l
 - Open and run the Loan_Prediction.ipynb notebook in Jupyter.
 - Explore the dataset, preprocess the data, and train the logistic regression and KNN models.
 - Analyze the results and predictions.
+
+<p align="right"><a href="#top">⬆️ Back to Top</a></p>
